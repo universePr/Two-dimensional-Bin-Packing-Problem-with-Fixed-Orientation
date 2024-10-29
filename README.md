@@ -1,7 +1,7 @@
 ## **Universe**
 ### **Crow Search Algorithm (CSA) for 2D Bin Packing Problem (Python)**
 
-**This repository implements a Python version of the Crow Search Algorithm (CSA) adapted for solving the Two-Dimensional Bin Packing Problem (2D-BPP)**
+**This repository implements a Python version of the Crow Search Algorithm (CSA) And Sky Line huristic to adapted for solving the Two-Dimensional Bin Packing Problem (2D-BPP)**
 
 **Abstract**
 
